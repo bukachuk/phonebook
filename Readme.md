@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-git clone https://github.com/bukachuk/phonebook.git
+git clone https://github.com/bukachuk/phonebook.git && cd phonebook
 ```
 
 Create new database
